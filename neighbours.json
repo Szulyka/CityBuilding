@@ -1,0 +1,217 @@
+{
+    "population": 0,
+    "happiness": 25,
+    "money": -400,
+    "taxes": 1000,
+    "taxRate": 100,
+    "ticks": 66500,
+    "eY": 0,
+    "eM": 2,
+    "eD": 7,
+    "tiles": [
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "type": "hor. street",
+            "x": 240,
+            "y": 0,
+            "idx": 6
+        },
+        {
+            "type": "hor. street",
+            "x": 320,
+            "y": 0,
+            "idx": 8
+        },
+        {
+            "type": "hor. street",
+            "x": 400,
+            "y": 0,
+            "idx": 10
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 0,
+            "idx": 12
+        },
+        {
+            "type": "hor. street",
+            "x": 560,
+            "y": 0,
+            "idx": 14
+        },
+        {
+            "type": "hor. street",
+            "x": 640,
+            "y": 0,
+            "idx": 16
+        },
+        {
+            "type": "hor. street",
+            "x": 720,
+            "y": 0,
+            "idx": 18
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 0,
+            "idx": 20
+        },
+        {
+            "type": "hor. street",
+            "x": 880,
+            "y": 0,
+            "idx": 22
+        },
+        {
+            "type": "hor. street",
+            "x": 960,
+            "y": 0,
+            "idx": 24
+        },
+        {
+            "type": "hor. street",
+            "x": 1040,
+            "y": 0,
+            "idx": 26
+        },
+        {
+            "type": "hor. street",
+            "x": 1120,
+            "y": 0,
+            "idx": 28
+        },
+        {
+            "type": "hor. street",
+            "x": 1200,
+            "y": 0,
+            "idx": 30
+        },
+        {
+            "type": "hor. street",
+            "x": 120,
+            "y": 120,
+            "idx": 123
+        },
+        {
+            "type": "hor. street",
+            "x": 160,
+            "y": 120,
+            "idx": 124
+        },
+        {
+            "type": "hor. street",
+            "x": 200,
+            "y": 120,
+            "idx": 125
+        },
+        {
+            "type": "hor. street",
+            "x": 240,
+            "y": 120,
+            "idx": 126
+        },
+        {
+            "type": "hor. street",
+            "x": 280,
+            "y": 120,
+            "idx": 127
+        },
+        {
+            "type": "hor. street",
+            "x": 320,
+            "y": 120,
+            "idx": 128
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 120,
+            "idx": 129
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 160,
+            "idx": 169
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 200,
+            "idx": 209
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 240,
+            "idx": 249
+        },
+        {
+            "type": "hor. street",
+            "x": 320,
+            "y": 240,
+            "idx": 248
+        },
+        {
+            "type": "hor. street",
+            "x": 280,
+            "y": 240,
+            "idx": 247
+        },
+        {
+            "type": "hor. street",
+            "x": 240,
+            "y": 240,
+            "idx": 246
+        },
+        {
+            "type": "hor. street",
+            "x": 200,
+            "y": 240,
+            "idx": 245
+        },
+        {
+            "type": "hor. street",
+            "x": 160,
+            "y": 240,
+            "idx": 244
+        },
+        {
+            "type": "hor. street",
+            "x": 120,
+            "y": 240,
+            "idx": 243
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 240,
+            "idx": 242
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 200,
+            "idx": 202
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 160,
+            "idx": 162
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 120,
+            "idx": 122
+        }
+    ]
+}

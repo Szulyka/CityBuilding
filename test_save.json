@@ -1,0 +1,596 @@
+{
+    "population": 900,
+    "happiness": 50,
+    "money": 3375,
+    "taxes": 1900,
+    "taxRate": 100,
+    "ticks": 45442,
+    "eY": 0,
+    "eM": 1,
+    "eD": 14,
+    "tiles": [
+        {
+            "type": "hor. street",
+            "x": 0,
+            "y": 520,
+            "idx": 520
+        },
+        {
+            "type": "hor. street",
+            "x": 40,
+            "y": 520,
+            "idx": 521
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 520,
+            "idx": 522
+        },
+        {
+            "type": "hor. street",
+            "x": 120,
+            "y": 520,
+            "idx": 523
+        },
+        {
+            "type": "hor. street",
+            "x": 160,
+            "y": 520,
+            "idx": 524
+        },
+        {
+            "type": "hor. street",
+            "x": 200,
+            "y": 520,
+            "idx": 525
+        },
+        {
+            "type": "hor. street",
+            "x": 240,
+            "y": 520,
+            "idx": 526
+        },
+        {
+            "type": "hor. street",
+            "x": 280,
+            "y": 520,
+            "idx": 527
+        },
+        {
+            "type": "hor. street",
+            "x": 320,
+            "y": 520,
+            "idx": 528
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 520,
+            "idx": 529
+        },
+        {
+            "type": "hor. street",
+            "x": 400,
+            "y": 520,
+            "idx": 530
+        },
+        {
+            "type": "hor. street",
+            "x": 440,
+            "y": 520,
+            "idx": 531
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 520,
+            "idx": 532
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 560,
+            "idx": 572
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 600,
+            "idx": 612
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 640,
+            "idx": 652
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 680,
+            "idx": 692
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 720,
+            "idx": 732
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 760,
+            "idx": 772
+        },
+        {
+            "type": "hor. street",
+            "x": 520,
+            "y": 800,
+            "idx": 813
+        },
+        {
+            "type": "hor. street",
+            "x": 480,
+            "y": 800,
+            "idx": 812
+        },
+        {
+            "type": "hor. street",
+            "x": 560,
+            "y": 800,
+            "idx": 814
+        },
+        {
+            "type": "hor. street",
+            "x": 600,
+            "y": 800,
+            "idx": 815
+        },
+        {
+            "type": "hor. street",
+            "x": 640,
+            "y": 800,
+            "idx": 816
+        },
+        {
+            "type": "hor. street",
+            "x": 680,
+            "y": 800,
+            "idx": 817
+        },
+        {
+            "type": "hor. street",
+            "x": 720,
+            "y": 800,
+            "idx": 818
+        },
+        {
+            "type": "hor. street",
+            "x": 760,
+            "y": 800,
+            "idx": 819
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 800,
+            "idx": 820
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 840,
+            "idx": 860
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 880,
+            "idx": 900
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 920,
+            "idx": 940
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 960,
+            "idx": 980
+        },
+        {
+            "type": "hor. street",
+            "x": 800,
+            "y": 1000,
+            "idx": 1020
+        },
+        {
+            "type": "residential",
+            "x": 120,
+            "y": 200,
+            "idx": 203,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 160,
+            "y": 80,
+            "idx": 84,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 520,
+            "y": 80,
+            "idx": 93,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 1000,
+            "y": 80,
+            "idx": 105,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 1240,
+            "y": 120,
+            "idx": 151,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 1360,
+            "y": 120,
+            "idx": 154,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 1440,
+            "y": 80,
+            "idx": 116,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 1080,
+            "y": 40,
+            "idx": 67,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "residential",
+            "x": 680,
+            "y": 40,
+            "idx": 57,
+            "capacity": 400,
+            "saturation": 25,
+            "satisfaction": 50
+        },
+        {
+            "type": "industrial",
+            "x": 240,
+            "y": 320,
+            "idx": 326,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 200,
+            "y": 240,
+            "idx": 245,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 280,
+            "y": 120,
+            "idx": 127,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 480,
+            "y": 240,
+            "idx": 252,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 720,
+            "y": 360,
+            "idx": 378,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 1000,
+            "y": 280,
+            "idx": 305,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "industrial",
+            "x": 1200,
+            "y": 240,
+            "idx": 270,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 800,
+            "y": 440,
+            "idx": 460,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1160,
+            "y": 480,
+            "idx": 509,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1240,
+            "y": 440,
+            "idx": 471,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1280,
+            "y": 560,
+            "idx": 592,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1240,
+            "y": 640,
+            "idx": 671,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1000,
+            "y": 680,
+            "idx": 705,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1040,
+            "y": 760,
+            "idx": 786,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1240,
+            "y": 760,
+            "idx": 791,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "service",
+            "x": 1400,
+            "y": 600,
+            "idx": 635,
+            "capacity": 400,
+            "saturation": 0
+        },
+        {
+            "type": "fire dep.",
+            "x": 40,
+            "y": 680,
+            "idx": 681
+        },
+        {
+            "type": "fire dep.",
+            "x": 80,
+            "y": 680,
+            "idx": 682
+        },
+        {
+            "type": "fire dep.",
+            "x": 240,
+            "y": 640,
+            "idx": 646
+        },
+        {
+            "type": "fire dep.",
+            "x": 360,
+            "y": 720,
+            "idx": 729
+        },
+        {
+            "type": "fire dep.",
+            "x": 240,
+            "y": 800,
+            "idx": 806
+        },
+        {
+            "type": "fire dep.",
+            "x": 40,
+            "y": 880,
+            "idx": 881
+        },
+        {
+            "type": "fire dep.",
+            "x": 240,
+            "y": 920,
+            "idx": 926
+        },
+        {
+            "type": "fire dep.",
+            "x": 400,
+            "y": 920,
+            "idx": 930
+        },
+        {
+            "type": "stadium",
+            "x": 560,
+            "y": 920,
+            "idx": 934
+        },
+        {
+            "type": "stadium",
+            "x": 640,
+            "y": 600,
+            "idx": 616
+        },
+        {
+            "type": "stadium",
+            "x": 840,
+            "y": 520,
+            "idx": 541
+        },
+        {
+            "type": "stadium",
+            "x": 1040,
+            "y": 520,
+            "idx": 546
+        },
+        {
+            "type": "university",
+            "x": 480,
+            "y": 360,
+            "idx": 372
+        },
+        {
+            "type": "university",
+            "x": 800,
+            "y": 280,
+            "idx": 300
+        },
+        {
+            "type": "university",
+            "x": 960,
+            "y": 360,
+            "idx": 384
+        },
+        {
+            "type": "university",
+            "x": 880,
+            "y": 160,
+            "idx": 182
+        },
+        {
+            "type": "industrial",
+            "x": 120,
+            "y": 440,
+            "idx": 443,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 280,
+            "y": 440,
+            "idx": 447,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 280,
+            "y": 560,
+            "idx": 567,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 400,
+            "y": 560,
+            "idx": 570,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 520,
+            "y": 680,
+            "idx": 693,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 720,
+            "y": 720,
+            "idx": 738,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 840,
+            "y": 880,
+            "idx": 901,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 720,
+            "y": 880,
+            "idx": 898,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 0,
+            "y": 560,
+            "idx": 560,
+            "capacity": 400,
+            "saturation": 5.25
+        },
+        {
+            "type": "industrial",
+            "x": 0,
+            "y": 440,
+            "idx": 440,
+            "capacity": 400,
+            "saturation": 5.25
+        }
+    ]
+}

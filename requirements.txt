@@ -1,0 +1,4 @@
+pygame==2.3.0
+pygame-gui==0.6.8
+pytest==7.3.1
+pygame-popup==0.7.0

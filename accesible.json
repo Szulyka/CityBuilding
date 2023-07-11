@@ -1,0 +1,149 @@
+{
+    "population": 0,
+    "happiness": 50,
+    "money": 400,
+    "taxes": 1000,
+    "taxRate": 100,
+    "ticks": 10233,
+    "eY": 0,
+    "eM": 0,
+    "eD": 10,
+    "tiles": [
+        {
+            "type": "hor. street",
+            "x": 0,
+            "y": 520,
+            "idx": 520
+        },
+        {
+            "type": "hor. street",
+            "x": 40,
+            "y": 520,
+            "idx": 521
+        },
+        {
+            "type": "hor. street",
+            "x": 80,
+            "y": 520,
+            "idx": 522
+        },
+        {
+            "type": "hor. street",
+            "x": 120,
+            "y": 520,
+            "idx": 523
+        },
+        {
+            "type": "hor. street",
+            "x": 160,
+            "y": 520,
+            "idx": 524
+        },
+        {
+            "type": "hor. street",
+            "x": 200,
+            "y": 520,
+            "idx": 525
+        },
+        {
+            "type": "hor. street",
+            "x": 240,
+            "y": 520,
+            "idx": 526
+        },
+        {
+            "type": "hor. street",
+            "x": 280,
+            "y": 520,
+            "idx": 527
+        },
+        {
+            "type": "hor. street",
+            "x": 320,
+            "y": 520,
+            "idx": 528
+        },
+        {
+            "type": "hor. street",
+            "x": 360,
+            "y": 520,
+            "idx": 529
+        },
+        {
+            "type": "hor. street",
+            "x": 400,
+            "y": 520,
+            "idx": 530
+        },
+        {
+            "type": "hor. street",
+            "x": 440,
+            "y": 520,
+            "idx": 531
+        },
+        {
+            "type": "industrial",
+            "x": 0,
+            "y": 440,
+            "idx": 440,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 120,
+            "y": 440,
+            "idx": 443,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 240,
+            "y": 440,
+            "idx": 446,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 400,
+            "y": 440,
+            "idx": 450,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 480,
+            "y": 520,
+            "idx": 532,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 320,
+            "y": 560,
+            "idx": 568,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 160,
+            "y": 560,
+            "idx": 564,
+            "capacity": 400,
+            "saturation": 0.0
+        },
+        {
+            "type": "industrial",
+            "x": 0,
+            "y": 560,
+            "idx": 560,
+            "capacity": 400,
+            "saturation": 0.0
+        }
+    ]
+}
